@@ -1,0 +1,101 @@
+[02-12 18:17:44]: [INFO] Created column 'regdate' and set the current timestamp, 1549984664312, to all 0 rows
+[02-12 18:17:44]: [INFO] SQLite Setup finished
+[02-12 18:17:44]: [INFO] Hooked into PermissionsEx!
+[02-12 18:17:44]: [INFO] Hooked successfully into Essentials
+[02-12 18:17:44]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: http://geolite.maxmind.com/download/geoip/database/GeoLiteCountry/GeoIP.dat.gz
+[02-12 18:17:44]: java.io.FileNotFoundException: http://geolite.maxmind.com/download/geoip/database/GeoLiteCountry/GeoIP.dat.gz
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at fr.xephi.authme.service.GeoIpService$1.run(GeoIpService.java:94)
+	at java.lang.Thread.run(Unknown Source)
+
+[02-12 18:17:44]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[02-12 18:17:44]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[02-12 18:17:44]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[02-12 18:17:44]: [INFO] AuthMe 5.4.0 build n.1877 correctly enabled!
+[02-12 18:17:55]: [FINE] NeEgorSuperYT registered 127.0.0.1
+[02-12 18:17:55]: [FINE] NeEgorSuperYT logged in!
+[02-12 18:18:37]: [FINE] NeEgorSuperYT logged in!
+[02-12 18:21:27]: [INFO] SQLite Setup finished
+[02-12 18:21:27]: [INFO] Hooked into PermissionsEx!
+[02-12 18:21:27]: [INFO] Hooked successfully into Essentials
+[02-12 18:21:27]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: http://geolite.maxmind.com/download/geoip/database/GeoLiteCountry/GeoIP.dat.gz
+[02-12 18:21:27]: java.io.FileNotFoundException: http://geolite.maxmind.com/download/geoip/database/GeoLiteCountry/GeoIP.dat.gz
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at fr.xephi.authme.service.GeoIpService$1.run(GeoIpService.java:94)
+	at java.lang.Thread.run(Unknown Source)
+
+[02-12 18:21:27]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[02-12 18:21:27]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[02-12 18:21:27]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[02-12 18:21:27]: [INFO] AuthMe 5.4.0 build n.1877 correctly enabled!
+[02-12 18:21:37]: [FINE] NeEgorSuperYT logged in!
+[02-12 18:23:00]: [INFO] SQLite Setup finished
+[02-12 18:23:00]: [INFO] Hooked into PermissionsEx!
+[02-12 18:23:00]: [INFO] Hooked successfully into Essentials
+[02-12 18:23:00]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[02-12 18:23:00]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: http://geolite.maxmind.com/download/geoip/database/GeoLiteCountry/GeoIP.dat.gz
+[02-12 18:23:00]: java.io.FileNotFoundException: http://geolite.maxmind.com/download/geoip/database/GeoLiteCountry/GeoIP.dat.gz
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at fr.xephi.authme.service.GeoIpService$1.run(GeoIpService.java:94)
+	at java.lang.Thread.run(Unknown Source)
+
+[02-12 18:23:00]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[02-12 18:23:00]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[02-12 18:23:00]: [INFO] AuthMe 5.4.0 build n.1877 correctly enabled!
+[02-12 18:23:05]: [FINE] NeEgorSuperYT logged in!
+[02-12 18:24:22]: [FINE] NeEgorSuperYT logged in!
+[02-12 18:25:31]: [FINE] NeEgorSuperYT logged in!
+[02-12 18:27:17]: [INFO] SQLite Setup finished
+[02-12 18:27:17]: [INFO] Hooked into PermissionsEx!
+[02-12 18:27:17]: [INFO] Hooked successfully into Essentials
+[02-12 18:27:17]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: http://geolite.maxmind.com/download/geoip/database/GeoLiteCountry/GeoIP.dat.gz
+[02-12 18:27:17]: java.io.FileNotFoundException: http://geolite.maxmind.com/download/geoip/database/GeoLiteCountry/GeoIP.dat.gz
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at fr.xephi.authme.service.GeoIpService$1.run(GeoIpService.java:94)
+	at java.lang.Thread.run(Unknown Source)
+
+[02-12 18:27:17]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[02-12 18:27:17]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[02-12 18:27:17]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[02-12 18:27:17]: [INFO] AuthMe 5.4.0 build n.1877 correctly enabled!
+[02-12 18:27:22]: [FINE] NeEgorSuperYT logged in!
+[02-12 18:28:06]: [FINE] NeEgorSuperYT logged in!
+[06-12 17:50:47]: [INFO] SQLite Setup finished
+[06-12 17:50:47]: [INFO] Hooked into PermissionsEx!
+[06-12 17:50:47]: [INFO] Hooked successfully into Essentials
+[06-12 17:50:47]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[06-12 17:50:47]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: http://geolite.maxmind.com/download/geoip/database/GeoLiteCountry/GeoIP.dat.gz
+[06-12 17:50:47]: java.io.FileNotFoundException: http://geolite.maxmind.com/download/geoip/database/GeoLiteCountry/GeoIP.dat.gz
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at fr.xephi.authme.service.GeoIpService$1.run(GeoIpService.java:94)
+	at java.lang.Thread.run(Unknown Source)
+
+[06-12 17:50:47]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[06-12 17:50:47]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[06-12 17:50:47]: [INFO] AuthMe 5.4.0 build n.1877 correctly enabled!
+[06-12 17:51:17]: [FINE] MrDomer registered 127.0.0.1
+[06-12 17:51:17]: [FINE] The user MrDomer has 2 accounts:
+[06-12 17:51:17]: [FINE] §7neegorsuperyt, §aMrDomer§7.
+[06-12 17:51:17]: [FINE] MrDomer logged in!
+[06-13 00:27:09]: [INFO] SQLite Setup finished
+[06-13 00:27:09]: [INFO] Hooked into PermissionsEx!
+[06-13 00:27:09]: [INFO] Hooked successfully into Essentials
+[06-13 00:27:09]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: http://geolite.maxmind.com/download/geoip/database/GeoLiteCountry/GeoIP.dat.gz
+[06-13 00:27:09]: java.io.FileNotFoundException: http://geolite.maxmind.com/download/geoip/database/GeoLiteCountry/GeoIP.dat.gz
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at fr.xephi.authme.service.GeoIpService$1.run(GeoIpService.java:94)
+	at java.lang.Thread.run(Unknown Source)
+
+[06-13 00:27:09]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[06-13 00:27:09]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[06-13 00:27:09]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[06-13 00:27:09]: [INFO] AuthMe 5.4.0 build n.1877 correctly enabled!
+[06-13 00:28:03]: [FINE] The user MrDomer has 2 accounts:
+[06-13 00:28:03]: [FINE] §7neegorsuperyt, §aMrDomer§7.
+[06-13 00:28:03]: [FINE] MrDomer logged in!
